@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSalesAnomalyDetection", "ProductSalesAnomalyDetection\ProductSalesAnomalyDetection.csproj", "{E9D744D0-163D-4BF7-85E2-A19CA7A66EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D744D0-163D-4BF7-85E2-A19CA7A66EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D744D0-163D-4BF7-85E2-A19CA7A66EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D744D0-163D-4BF7-85E2-A19CA7A66EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D744D0-163D-4BF7-85E2-A19CA7A66EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545D11CB-8506-4168-AA87-515883363DF1}
+	EndGlobalSection
+EndGlobal
